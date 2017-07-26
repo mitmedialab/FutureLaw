@@ -9,7 +9,7 @@
 * Future Law Twitter Handle: [@FutureLawMIT](https://twitter.com/FutureLawMIT)
 * Course Public Landing Page: [www.FutureLawMIT.org](http://futurelawmit.org)
 
-### Get 2017 Course Announcements
+### Request Course Announcements
 
 [http://law.mit.edu/contact](http://law.mit.edu/contact)
 
