@@ -1,7 +1,7 @@
 # Future Law 
 **Reimagining Rules & Legal Services in Light of Novel Technologies & Enabled Code**
 
-## MIT Media Lab Graduate Seminar
+### 2017 MIT Media Lab Graduate Seminar
 
 * Draft Course Description: [MITFutureLawFall2017H1-DRAFT-Course-Description.pdf](https://github.com/mitmedialab/FutureLaw/blob/master/MITFutureLawFall2017H1-DRAFT-Course-Description.pdf)
 * Future Law Public Reading List: [law.MIT.edu/Readings](http://law.mit.edu/readings)(Late August, 2017)
@@ -9,7 +9,7 @@
 * Future Law Twitter Handle: [@FutureLawMIT](https://twitter.com/FutureLawMIT)
 * Course Public Landing Page: [www.FutureLawMIT.org](http://futurelawmit.org)
 
-## Get Course Announcements
+### Get 2017 Course Announcements
 
 [http://law.mit.edu/contact](http://law.mit.edu/contact)
 
