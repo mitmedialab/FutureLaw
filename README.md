@@ -4,8 +4,8 @@
 ## MIT Media Lab Graduate Seminar
 
 * Draft Course Description: [MITFutureLawFall2017H1-DRAFT-Course-Description.pdf](https://github.com/mitmedialab/FutureLaw/blob/master/MITFutureLawFall2017H1-DRAFT-Course-Description.pdf)
-* Future Law Reading List: [law.MIT.edu/Readings](http://law.mit.edu/readings)(TBA)
-* Future Law GitHub Repository: [github.com/mitmedialab/FutureLaw](https://github.com/mitmedialab/FutureLaw)
+* Future Law Public Reading List: [law.MIT.edu/Readings](http://law.mit.edu/readings)(Late August, 2017)
+* Future Law Public GitHub Repository: [github.com/mitmedialab/FutureLaw](https://github.com/mitmedialab/FutureLaw)
 * Future Law Twitter Handle: [@FutureLawMIT](https://twitter.com/FutureLawMIT)
 * Course Public Landing Page: [www.FutureLawMIT.org](http://futurelawmit.org)
 
