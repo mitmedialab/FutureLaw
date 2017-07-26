@@ -3,11 +3,11 @@
 
 ### 2017 MIT Media Lab Graduate Seminar
 
-* Draft Course Description: [MITFutureLawFall2017H1-DRAFT-Course-Description.pdf](https://github.com/mitmedialab/FutureLaw/blob/master/MITFutureLawFall2017H1-DRAFT-Course-Description.pdf)
-* Future Law Course Public Landing Page: [www.FutureLawMIT.org](http://futurelawmit.org)
-* Future Law Course Public GitHub Repository: [github.com/mitmedialab/FutureLaw](https://github.com/mitmedialab/FutureLaw)
-* Future Law Course Twitter Handle: [@FutureLawMIT](https://twitter.com/FutureLawMIT)
-* Future Law Course Public Reading List: [law.MIT.edu/Readings](http://law.mit.edu/readings) (Late Summer 2017)
+* Future Law MIT Course Description: [DRAFT](https://github.com/mitmedialab/FutureLaw/blob/master/MITFutureLawFall2017H1-DRAFT-Course-Description.pdf)
+* Public Landing Page: [www.FutureLawMIT.org](http://futurelawmit.org)
+* GitHub Repository: [github.com/mitmedialab/FutureLaw](https://github.com/mitmedialab/FutureLaw)
+* Twitter Handle: [@FutureLawMIT](https://twitter.com/FutureLawMIT)
+* Public Reading List: [law.MIT.edu/Readings](http://law.mit.edu/readings) (Late Summer 2017)
 
 
 ### Request Course Announcements
