@@ -12,7 +12,7 @@ Content at the following links will be updated from time to time during the summ
 * Public Reading List: [law.MIT.edu/Readings](http://law.mit.edu/readings)
 
 
-### Request Course Announcements
+### Receive Course Announcements
 
 [http://law.mit.edu/contact](http://law.mit.edu/contact)
 
