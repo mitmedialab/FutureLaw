@@ -5,8 +5,8 @@
 
 Content at the following links will be updated from time to time during the summer of 2017:
 
-* Future Law MIT Course Description: [DRAFT](https://github.com/mitmedialab/FutureLaw/blob/master/MITFutureLawFall2017H1-DRAFT-Course-Description.pdf)
 * Public Landing Page: [www.FutureLawMIT.org](http://futurelawmit.org)
+* Future Law MIT Course Description: [DRAFT](https://github.com/mitmedialab/FutureLaw/blob/master/MITFutureLawFall2017H1-DRAFT-Course-Description.pdf)
 * GitHub Repository: [github.com/mitmedialab/FutureLaw](https://github.com/mitmedialab/FutureLaw)
 * Twitter Handle: [@FutureLawMIT](https://twitter.com/FutureLawMIT)
 * Public Reading List: [law.MIT.edu/Readings](http://law.mit.edu/readings)
