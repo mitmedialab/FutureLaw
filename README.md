@@ -1,4 +1,4 @@
-# Future Law 
+# [Future Law](http://futurelawmit.org)
 > Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
 
 ## 2017 MIT Media Lab Graduate Seminar
