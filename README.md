@@ -76,28 +76,28 @@ Highly motivated students will have the option of participating in an independen
 
 * Additional articles and readings will be available for download from the MIT Stellar web site or otherwise online.
 
-## Class Schedule:
+# Class Schedule:
 
-### Class: Sept 12 
+## Class: Sept 12 
 > Topic Intro & Overview of the Future of Law 
 
 https://law.MIT.edu/readingsSpeakers: Teninbaum, Greenwood, Bonsen, TBD
 
-### Class: Sept 19 
+## Class: Sept 19 
 > Topic: AI & Productization meets Legal Services; idea pitches; project suggestions 
 * Speakers: Greenwood, TBD
 
-### Class: Sept 26 
+## Class: Sept 26 
 > Topic - Blockchain, Code, Computational Law & Legal Analytics
 * Speakers: Greenwood, Pentland, TBD
 
-### Class: Oct 3 
+## Class: Oct 3 
 > Topic: Law of New Technologies & Business Models in Global Context 
 * Speakers: Bonsen, TBD
 
-### * Oct 10 * NO Class * Columbus Holiday *
+### - - Oct 10 - - NO Class - - Columbus Holiday - -
 
-### Class: Oct 17 
+## Class: Oct 17 
 > Topic: Final Project Presentations
 
 # Office Hours: 
