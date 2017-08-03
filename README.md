@@ -8,11 +8,11 @@
 * Credit: 2-0-4, No Final Exam, Project-based Offering
 * Undergraduates with Permission; Cross-Registrants Welcome
 
-# Instructors:
+* Instructors:
 
 Gabriel Teninbaum, Dazza Greenwood, Joost Bonsen, Alex Pentland 
 
-# Prerequisites: 
+* Prerequisites: 
 
 Students taking the course should have a strong interest in innovation and legal services, and willingness to work in teams with diverse backgrounds. Engineers, entrepreneurs, statisticians, software engineers, and designers need to work alongside practitioners, law students, and others.
 
@@ -20,7 +20,7 @@ Students taking the course should have a strong interest in innovation and legal
 
 Students will explore emerging technologies that are disrupting existing law practices and legal services by building new business models, products or technical concepts. They will understand, experience and build the future of law, lawyers, legal services, and societal rules for technologies and methods. Over a handful of weekly first-half (H1) semester class sessions, students will be exposed to key ideas, principles and frameworks from CEOs of leading startups, corporate leaders, and Media Lab instructors who are leading research in the future of computational law, the legal implications of new technologies, the productization of legal services, and more. Throughout the class, participants will benefit from the Media Lab Entrepreneurship Program’s ability to convene diverse students from across campus and around Boston.
 
-# Course Themes:
+## Course Themes:
 
 The course will explore how organizations ranging in size from new startups to global giants (and also non-profit organizations) are trying to disrupt the status quo in how the law and legal profession is today. Guest lecturers will reveal how new technologies are creating new areas of opportunity, upsetting established players, transforming existing revenue streams (for both better and worse), and how incumbents are responding to these disruptive innovations.
 
@@ -39,7 +39,7 @@ Legal and policy dimensions of big data and personal data markets and ecologies;
 Exploring how new inventions and approaches move faster than updates to the legal system; historical examples including Law of the Sea and Space Law, plus domains such as radio frequency allocation, patentability of life, liability of autonomous vehicles, drones, etc.
 
 
-# Weekly Class Structure: 
+## Weekly Class Structure: 
 
 The 90 minute class sessions will be conducted in one of two formats, roughly on an alternating basis throughout the class. Some classes will be held in seminar style, with the first half given as a lecture by a practitioner who is a leader in industry, an innovative start-up, government, foundations, or academia. We will round out the second half with frameworks, group exercises and simulations that reinforce the first-half lecture. Other class sessions will consists of mini-presentations led by student groups. The purpose of these demonstrations will be to allow groups to show early progress on their class projects.
 
@@ -68,7 +68,7 @@ This survey course is designed to serve as a “tool-kit” for students who wan
 
 Highly motivated students will have the option of participating in an independent study supervised by the course instructors, either during IAP or subsequent semesters, to further develop their venture concept crafted during the class.
 
-# Text & Readings:
+## Text & Readings:
 
 * Social Physics: How Social Networks Can Make Us Smarter (Alex Pentland) 
 
@@ -123,9 +123,6 @@ Grades will be issued based on the following criteria:
 * **Daniel "Dazza" Greenwood** <[law.mit.edu/contact](https://law.mit.edu/contact)> -- Visiting Scientist at MIT Media Lab, is helping to build the field of computational law through law.MIT.edu and conducting legally related Blockchain research at MIT.edu/blockchain. Dazza is also founder of CIVICS.com, a boutique provider of professional consultancy services for digital identity, automated transactions, data management and technology strategy. Dazza consults to fortune 100 companies and technology leaders on strategic use of advanced technology and large scale cross-boundary integration of business, legal and technology systems, including GE, AT&T, The Hartford, Progressive Insurance, Digital Federal Credit Union, Computer Associates and many others. As an attorney, Dazza served as both in-house and special counsel for technology law, representing corporations and governments and as a litigation expert. Dazza has testified before the U​ S House, US Senate​ and other legislatures on electronic transactions law and consults consults extensively to the public sector, including to NASA as an Online Identity expert, GSA as a multilateral rules drafting expert, Homeland Security as a multi-state federated systems expert, the UK Cabinet Office on population-scale identity federation rules and many other public & private sector organizations and global NGOs.
 
 * **Joost Bonsen** <jpbonsen@alum.mit.edu> -- Lecturer in Media Arts and Sciences, is an innovation ecologist studying inventive action, entrepreneurial hotspots, and creative ties. His graduate thesis from MIT explored “The Innovation Institute: From Creative Inquiry Through Real-World Impact”. Prior to MIT Sloan, Bonsen ran the MIT Founders Project which quantified the economic impact of MIT-related entrepreneurs, findings ultimately published by BankBoston as MIT: Impact of Innovation. Formerly an entrant, mentor, judge, and Lead Organizer of the MIT $100K Entrepreneurship Competition, he was instrumental in the growth of the prize fund to include a Development and Social Impact track. Joost was co-creator and founding Teaching Assistant or instructor of several MIT classes and seminars, including the IAP Nuts & Bolts of New Ventures with Joe Hadzima, Developmental Ventures and Media Ventures with Sandy Pentland, Revolutionary Ventures with Ed Boyden & Joe Jacobson, and most recently Future family of seminars. Joost did his Bachelor's at MIT in Bio-Electrical Engineering and his Master’s at MIT Sloan.
-
-
-
 
 
 # Quick Link List
