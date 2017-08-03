@@ -17,3 +17,5 @@ Content at the following links will be updated from time to time during the summ
 ### TweetStream
 
 <a class="twitter-timeline" href="https://twitter.com/FutureLawMIT">Tweets by FutureLawMIT</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img width="948" alt="screen shot 2017-07-26 at 8 50 23 pm" src="https://github.com/mitmedialab/FutureLaw/raw/master/Media/Screen%20Shot%202017-07-26%20at%208.35.53%20PM.png">
