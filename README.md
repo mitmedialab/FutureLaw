@@ -1,5 +1,5 @@
 # [Future Law](http://futurelawmit.org)
-> Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
+### Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
 
 **2017 MIT Media Lab Graduate Seminar**
 * Course Listing: MAS.S71 Fall 2017 (H1)
@@ -8,19 +8,19 @@
 * Credit: 2-0-4, No Final Exam, Project-based Offering
 * Undergraduates with Permission; Cross-Registrants Welcome
 
-* Instructors:
+## Instructors:
 
 Gabriel Teninbaum, Dazza Greenwood, Joost Bonsen, Alex Pentland 
 
-* Prerequisites: 
+## Prerequisites: 
 
 Students taking the course should have a strong interest in innovation and legal services, and willingness to work in teams with diverse backgrounds. Engineers, entrepreneurs, statisticians, software engineers, and designers need to work alongside practitioners, law students, and others.
 
-# Course Description:
+## Course Description:
 
 Students will explore emerging technologies that are disrupting existing law practices and legal services by building new business models, products or technical concepts. They will understand, experience and build the future of law, lawyers, legal services, and societal rules for technologies and methods. Over a handful of weekly first-half (H1) semester class sessions, students will be exposed to key ideas, principles and frameworks from CEOs of leading startups, corporate leaders, and Media Lab instructors who are leading research in the future of computational law, the legal implications of new technologies, the productization of legal services, and more. Throughout the class, participants will benefit from the Media Lab Entrepreneurship Program’s ability to convene diverse students from across campus and around Boston.
 
-## Course Themes:
+### Course Themes:
 
 The course will explore how organizations ranging in size from new startups to global giants (and also non-profit organizations) are trying to disrupt the status quo in how the law and legal profession is today. Guest lecturers will reveal how new technologies are creating new areas of opportunity, upsetting established players, transforming existing revenue streams (for both better and worse), and how incumbents are responding to these disruptive innovations.
 
@@ -39,16 +39,16 @@ Legal and policy dimensions of big data and personal data markets and ecologies;
 Exploring how new inventions and approaches move faster than updates to the legal system; historical examples including Law of the Sea and Space Law, plus domains such as radio frequency allocation, patentability of life, liability of autonomous vehicles, drones, etc.
 
 
-## Weekly Class Structure: 
+### Weekly Class Structure: 
 
 The 90 minute class sessions will be conducted in one of two formats, roughly on an alternating basis throughout the class. Some classes will be held in seminar style, with the first half given as a lecture by a practitioner who is a leader in industry, an innovative start-up, government, foundations, or academia. We will round out the second half with frameworks, group exercises and simulations that reinforce the first-half lecture. Other class sessions will consists of mini-presentations led by student groups. The purpose of these demonstrations will be to allow groups to show early progress on their class projects.
 
-## Class Project: 
+### Class Project: 
 
 In the first sessions of the class, students will be presented with a selection of topics from which to choose for their project, or to propose their own, and provide an “Idea Pitch”. Students will form multidisciplinary teams around these topics and will thereafter begin receiving guidance from project mentors and course instructors, including meetings among individuals and groups outside of scheduled class time. Students will spend the rest of the class meeting with their group members and interacting with course staff and outside advisors to complete the group project (see deliverables below). Team coaching from the instructors, outside of regular class meeting times, is integral to the pedagogical design of the course.
 
 
-## Expected Student Deliverables:
+### Expected Student Deliverables:
 
 Students pick one of three project options, all looking more deeply at one of the key subjects or a compelling opportunity:
 
@@ -60,15 +60,15 @@ Students pick one of three project options, all looking more deeply at one of th
 
 We encourage students to work in teams of their choosing on either one joint project or with different team members tackling each of the three levels of analysis. We expect serious participation including regular updates, either as presentations or in prose, all adding towards the project which has practical relevance beyond class.
 
-## Course Goals: 
+### Course Goals: 
 
 This survey course is designed to serve as a “tool-kit” for students who want exposure to world-class practitioners working at the leading edge of legal technology and services innovation, with particular emphasis on the digitization, automation, and/or productization of legal services and markets. The course aims to expose students to a wide range of specialty areas within this emerging field. Students will identify sub-areas that fit their interest and have some opportunity to take a deeper dive into the necessary skills, technology, and methods involved.
 
-## Course Extension: 
+### Course Extension: 
 
 Highly motivated students will have the option of participating in an independent study supervised by the course instructors, either during IAP or subsequent semesters, to further develop their venture concept crafted during the class.
 
-## Text & Readings:
+### Text & Readings:
 
 * Social Physics: How Social Networks Can Make Us Smarter (Alex Pentland) 
 
