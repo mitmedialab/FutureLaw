@@ -1,7 +1,8 @@
 # [Future Law](http://futurelawmit.org)
-### Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
-
+> Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
 **2017 MIT Media Lab Graduate Seminar**
+
+## MIT Course Info:**
 * Course Listing: MAS.S71 Fall 2017 (H1)
 * Class Time: Tuesdays 1:00-2:30pm (First Half of Semester from Sept 12 to Oct 17) 
 * Location: E14-633
