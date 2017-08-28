@@ -125,6 +125,10 @@ Grades will be issued based on the following criteria:
 
 * **Joost Bonsen** <jpbonsen@alum.mit.edu> -- Lecturer in Media Arts and Sciences, is an innovation ecologist studying inventive action, entrepreneurial hotspots, and creative ties. His graduate thesis from MIT explored “The Innovation Institute: From Creative Inquiry Through Real-World Impact”. Prior to MIT Sloan, Bonsen ran the MIT Founders Project which quantified the economic impact of MIT-related entrepreneurs, findings ultimately published by BankBoston as MIT: Impact of Innovation. Formerly an entrant, mentor, judge, and Lead Organizer of the MIT $100K Entrepreneurship Competition, he was instrumental in the growth of the prize fund to include a Development and Social Impact track. Joost was co-creator and founding Teaching Assistant or instructor of several MIT classes and seminars, including the IAP Nuts & Bolts of New Ventures with Joe Hadzima, Developmental Ventures and Media Ventures with Sandy Pentland, Revolutionary Ventures with Ed Boyden & Joe Jacobson, and most recently Future family of seminars. Joost did his Bachelor's at MIT in Bio-Electrical Engineering and his Master’s at MIT Sloan.
 
+# Class Poster
+
+<img alt="poster" src="https://raw.githubusercontent.com/mitmedialab/FutureLaw/master/Media/poster-01.jpg">
+
 
 # Quick Link List:
 
