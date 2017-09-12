@@ -84,14 +84,19 @@ Highly motivated students will have the option of participating in an independen
 
 https://law.MIT.edu/readingsSpeakers: Teninbaum, Greenwood, Bonsen
 
-**Guest Lecturer: Andrew Perlman, Dean of Suffolk University Law School**
-* Dean Andrew Perlman is a nationally recognized voice on the future of legal education and law practice. 
+**Guest Lecturer: [Andrew Perlman, Dean of Suffolk University Law School](http://www.suffolk.edu/law/faculty/26811.php)**
 
 * Livestream: http://youtu.be/_hbZ-QesFzk
-
 * Video Embed: 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/_hbZ-QesFzk" frameborder="0" allowfullscreen></iframe>
+
+> **Dean Andrew Perlman** is a nationally recognized voice on the future of legal education and law practice. Dean Perlman was the chief reporter of the American Bar Association’s Commission on Ethics 20/20, which was responsible for updating the ABA Model Rules of Professional Conduct to reflect changes in technology and increased globalization. He also served as the vice chair of the ABA Commission on the Future of Legal Services, which produced projects and recommendations designed to improve how legal services are delivered and accessed.  Most recently, he was appointed by the president of the American Bar Association to serve as the chair of the governing council of the ABA’s new Center for Innovation. Dean Perlman was the founding director of Suffolk’s Institute on Law Practice Technology and Innovation as well as the related Legal Technology and Innovation Concentration. In 2015, he was recognized by FastCase as one of 50 "entrepreneurs, innovators, and trailblazers ... who have charted a new course for the delivery of legal services." 
+
+> Dean Perlman has written numerous articles on professional responsibility that have appeared in some of the nation’s leading law reviews. He is a co-author (since 2008) of the annually updated book, Regulation of Lawyers: Statutes and Standards (with Stephen Gillers and Roy D. Simon) and a civil procedure casebook, Civil Procedure: A Coursebook (with Professors Joseph W. Glannon and Peter Raven-Hansen) that has been adopted at more than 70 law schools. He regularly speaks about professional responsibility and the future of legal services at academic conferences, bar association programs, and local and international law firms.
+
+> Prior to entering academia, Dean Perlman clerked for a federal district court judge in Chicago and practiced as a litigator there. He is an honors graduate of Yale College and Harvard Law School, and he received his LL.M from Columbia Law School.
+
 
 ## Class: Sept 19 
 > Topic: AI & Productization meets Legal Services; idea pitches; project suggestions 
