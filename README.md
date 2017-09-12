@@ -82,7 +82,16 @@ Highly motivated students will have the option of participating in an independen
 ## Class: Sept 12 
 > Topic Intro & Overview of the Future of Law 
 
-https://law.MIT.edu/readingsSpeakers: Teninbaum, Greenwood, Bonsen, TBD
+https://law.MIT.edu/readingsSpeakers: Teninbaum, Greenwood, Bonsen
+
+**Guest Lecturer: Andrew Perlman, Dean of Suffolk University Law School**
+* Dean Andrew Perlman is a nationally recognized voice on the future of legal education and law practice. 
+
+* Livestream: http://youtu.be/_hbZ-QesFzk
+
+* Video Embed: 
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_hbZ-QesFzk" frameborder="0" allowfullscreen></iframe>
 
 ## Class: Sept 19 
 > Topic: AI & Productization meets Legal Services; idea pitches; project suggestions 
