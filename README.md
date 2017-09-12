@@ -100,20 +100,28 @@ https://law.MIT.edu/readingsSpeakers: Teninbaum, Greenwood, Bonsen
 
 ## Class: Sept 19 
 > Topic: AI & Productization meets Legal Services; idea pitches; project suggestions 
-* Speakers: Greenwood, TBD
+* Speakers: Teninbaum, TBD
+
+* Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
 ## Class: Sept 26 
 > Topic - Blockchain, Code, Computational Law & Legal Analytics
 * Speakers: Greenwood, Pentland, TBD
 
+* Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+
 ## Class: Oct 3 
 > Topic: Law of New Technologies & Business Models in Global Context 
 * Speakers: Bonsen, TBD
+
+* Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
 ### - - Oct 10 - - NO Class - - Columbus Holiday - -
 
 ## Class: Oct 17 
 > Topic: Final Project Presentations
+
+* Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
 # Office Hours: 
 
