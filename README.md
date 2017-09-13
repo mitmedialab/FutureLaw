@@ -108,11 +108,11 @@ Highly motivated students will have the option of participating in an independen
 
 ----------------------------------------------------------------
 
-## Announcements: Add Your Info & Interests to FL17 Participant Sheet
+## Announcements: Add Your Info & Interests
 
-**Please add your info** to FL17 Participant Information & Interest Sheet here: [https://goo.gl/forms/GmSSh4txWBcNnQPA2](https://goo.gl/forms/GmSSh4txWBcNnQPA2)
+**Please add your info to FL17 Participant Information & Interest Sheet** here: [https://goo.gl/forms/GmSSh4txWBcNnQPA2](https://goo.gl/forms/GmSSh4txWBcNnQPA2)
 
-**... and view the responses** in spreadsheet format...here: [https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing)
+... **and view the responses** in spreadsheet format...here: [https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing)
 
 
 --------------------------------------------------------------
