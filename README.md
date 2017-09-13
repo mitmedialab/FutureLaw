@@ -79,6 +79,12 @@ Highly motivated students will have the option of participating in an independen
 
 * Additional articles and readings will be available for download from the MIT Stellar web site or otherwise online.
 
+
+
+--------------------------------------------------------------
+
+
+
 # Class Schedule:
 
 ## Class: Sept 12 
@@ -101,6 +107,9 @@ Highly motivated students will have the option of participating in an independen
 > Prior to entering academia, Dean Perlman clerked for a federal district court judge in Chicago and practiced as a litigator there. He is an honors graduate of Yale College and Harvard Law School, and he received his LL.M from Columbia Law School.
 
 
+--------------------------------------------------------------
+
+
 ## Class: Sept 19 
 > Topic: AI & Productization meets Legal Services; idea pitches; project suggestions 
 > Role of AI and chatbots in both increasing access and reducing cost of legal services; understanding pushback from the establishment around “unauthorized practice” or resistance by traditional players to adopting new methods; role of affordability in social justice and those traditionally under-served.
@@ -110,6 +119,11 @@ Highly motivated students will have the option of participating in an independen
 * Livestream: http://youtu.be/Yi7y3uE18KM or [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 * Embed: 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Yi7y3uE18KM" frameborder="0" allowfullscreen></iframe>
+
+
+
+--------------------------------------------------------------
+
 
 
 ## Class: Sept 26 
@@ -123,6 +137,11 @@ Highly motivated students will have the option of participating in an independen
 <iframe width="420" height="315" src="http://www.youtube.com/embed/8gSFfFB1Jto" frameborder="0" allowfullscreen></iframe>
 
 
+
+--------------------------------------------------------------
+
+
+
 ## Class: Oct 3 
 > Topic: Law of New Technologies & Business Models in Global Context 
 > Exploring how new inventions and approaches move faster than updates to the legal system; historical examples including Law of the Sea and Space Law, plus domains such as radio frequency allocation, patentability of life, liability of autonomous vehicles, drones, etc.
@@ -131,12 +150,26 @@ Highly motivated students will have the option of participating in an independen
 * Guest Speaker: J. Zittrain 
 * Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
+
+--------------------------------------------------------------
+
+
+
 ### - - Oct 10 - - NO Class - - Columbus Holiday - -
+
+
+--------------------------------------------------------------
+
+
 
 ## Class: Oct 17 
 > Topic: Final Project Presentations
 
 * Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+
+
+--------------------------------------------------------------
+
 
 # Office Hours: 
 
