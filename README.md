@@ -93,7 +93,7 @@ Highly motivated students will have the option of participating in an independen
 * Instructors: Teninbaum, Greenwood, Bonsen
 * Guest Speaker: Andrew Perlman
 
-**Guest Lecturer: [Andrew Perlman, Dean of Suffolk University Law School](http://www.suffolk.edu/law/faculty/26811.php)**
+### Guest Lecturer: [Andrew Perlman, Dean of Suffolk University Law School](http://www.suffolk.edu/law/faculty/26811.php)
 
 * Livestream: [https://youtu.be/_hbZ-QesFzk](https://youtu.be/_hbZ-QesFzk?t=6m54s)
 * Video Embed: 
@@ -105,6 +105,12 @@ Highly motivated students will have the option of participating in an independen
 > Dean Perlman has written numerous articles on professional responsibility that have appeared in some of the nation’s leading law reviews. He is a co-author (since 2008) of the annually updated book, Regulation of Lawyers: Statutes and Standards (with Stephen Gillers and Roy D. Simon) and a civil procedure casebook, Civil Procedure: A Coursebook (with Professors Joseph W. Glannon and Peter Raven-Hansen) that has been adopted at more than 70 law schools. He regularly speaks about professional responsibility and the future of legal services at academic conferences, bar association programs, and local and international law firms.
 
 > Prior to entering academia, Dean Perlman clerked for a federal district court judge in Chicago and practiced as a litigator there. He is an honors graduate of Yale College and Harvard Law School, and he received his LL.M from Columbia Law School.
+
+## Announcements: Conrtribute to Participant Info & Interest Sheet
+
+**Please add your info** to FL17 Participant Information & Interest Sheet here: [https://goo.gl/forms/GmSSh4txWBcNnQPA2](https://goo.gl/forms/GmSSh4txWBcNnQPA2)
+
+**... and view the responses in spreadsheet format**...here: [https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing)
 
 
 --------------------------------------------------------------
