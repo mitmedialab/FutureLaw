@@ -95,10 +95,10 @@ Highly motivated students will have the option of participating in an independen
 
 **Guest Lecturer: [Andrew Perlman, Dean of Suffolk University Law School](http://www.suffolk.edu/law/faculty/26811.php)**
 
-* Livestream: [http://youtu.be/_hbZ-QesFzk](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+* Livestream: [https://youtu.be/_hbZ-QesFzk](https://youtu.be/_hbZ-QesFzk?t=6m54s)
 * Video Embed: 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/_hbZ-QesFzk" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_hbZ-QesFzk?t=6m54s" frameborder="0" allowfullscreen></iframe>
 
 > **Dean Andrew Perlman** is a nationally recognized voice on the future of legal education and law practice. Dean Perlman was the chief reporter of the American Bar Association’s Commission on Ethics 20/20, which was responsible for updating the ABA Model Rules of Professional Conduct to reflect changes in technology and increased globalization. He also served as the vice chair of the ABA Commission on the Future of Legal Services, which produced projects and recommendations designed to improve how legal services are delivered and accessed.  Most recently, he was appointed by the president of the American Bar Association to serve as the chair of the governing council of the ABA’s new Center for Innovation. Dean Perlman was the founding director of Suffolk’s Institute on Law Practice Technology and Innovation as well as the related Legal Technology and Innovation Concentration. In 2015, he was recognized by FastCase as one of 50 "entrepreneurs, innovators, and trailblazers ... who have charted a new course for the delivery of legal services." 
 
