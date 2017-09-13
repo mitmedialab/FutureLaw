@@ -4,10 +4,12 @@
 
 ## MIT Course Info:
 * Course Listing: MAS.S71 Fall 2017 (H1)
+* [http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71](http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71) & [http://futurelawmit.org](http://futurelawmit.org)
 * Class Time: Tuesdays 1:00-2:30pm (First Half of Semester from Sept 12 to Oct 17) 
 * Location: E14-633
 * Credit: 2-0-4, No Final Exam, Project-based Offering
 * Undergraduates with Permission; Cross-Registrants Welcome
+
 
 ## Instructors:
 
@@ -81,12 +83,13 @@ Highly motivated students will have the option of participating in an independen
 
 ## Class: Sept 12 
 > Topic Intro & Overview of the Future of Law 
-
-https://law.MIT.edu/readingsSpeakers: Teninbaum, Greenwood, Bonsen
+> Introductions and overview of the course content, timing and processes
+* Instructors: Teninbaum, Greenwood, Bonsen
+* Guest Speaker: Andrew Perlman
 
 **Guest Lecturer: [Andrew Perlman, Dean of Suffolk University Law School](http://www.suffolk.edu/law/faculty/26811.php)**
 
-* Livestream: http://youtu.be/_hbZ-QesFzk
+* Livestream: [http://youtu.be/_hbZ-QesFzk](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 * Video Embed: 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/_hbZ-QesFzk" frameborder="0" allowfullscreen></iframe>
@@ -100,20 +103,27 @@ https://law.MIT.edu/readingsSpeakers: Teninbaum, Greenwood, Bonsen
 
 ## Class: Sept 19 
 > Topic: AI & Productization meets Legal Services; idea pitches; project suggestions 
-* Speakers: Teninbaum, TBD
+> Role of AI and chatbots in both increasing access and reducing cost of legal services; understanding pushback from the establishment around “unauthorized practice” or resistance by traditional players to adopting new methods; role of affordability in social justice and those traditionally under-served.
 
+* Instructors: Teninbaum, Greenwood
+* Guests Speakers: Pablo Arredondo and Brian Kuhn 
 * Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+
 
 ## Class: Sept 26 
 > Topic - Blockchain, Code, Computational Law & Legal Analytics
-* Speakers: Greenwood, Pentland, TBD
+> Legal and policy dimensions of big data and personal data markets and ecologies; Computational social science (CSS) on socio-legal dynamics, enabling tools for policy design, adaptive rule making, dynamic regulatory impact analysis, property right and law enforcement; online experiments, sentiment analysis techniques or agent-based social simulations in the legal world, and more including the infrastructure behind Identity, Security & Privacy.
 
+* Instructors: Greenwood, Pentland
+* Guest Speakers: Bob Craig and David Fisher.  Special Guest: Casey Kuhlman
 * Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
 ## Class: Oct 3 
 > Topic: Law of New Technologies & Business Models in Global Context 
-* Speakers: Bonsen, TBD
+> Exploring how new inventions and approaches move faster than updates to the legal system; historical examples including Law of the Sea and Space Law, plus domains such as radio frequency allocation, patentability of life, liability of autonomous vehicles, drones, etc.
 
+* Instructors: Bonsen, TBD
+* Guest Speaker: J. Zittrain 
 * Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
 ### - - Oct 10 - - NO Class - - Columbus Holiday - -
