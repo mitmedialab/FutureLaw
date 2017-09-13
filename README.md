@@ -4,12 +4,12 @@
 
 ## MIT Course Info:
 * Course Listing: MAS.S71 Fall 2017 (H1)
-* [http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71](http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71) & [http://futurelawmit.org](http://futurelawmit.org)
 * Class Time: Tuesdays 1:00-2:30pm (First Half of Semester from Sept 12 to Oct 17) 
 * Location: E14-633
 * Credit: 2-0-4, No Final Exam, Project-based Offering
 * Undergraduates with Permission; Cross-Registrants Welcome
-
+* Course Content: [http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71](http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71) & [http://futurelawmit.org](http://futurelawmit.org)
+* Course Livestream and Archive Video: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
 ## Instructors:
 
@@ -107,7 +107,9 @@ Highly motivated students will have the option of participating in an independen
 
 * Instructors: Teninbaum, Greenwood
 * Guests Speakers: Pablo Arredondo and Brian Kuhn 
-* Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+* Livestream: http://youtu.be/Yi7y3uE18KM or [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+* Embed: 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Yi7y3uE18KM" frameborder="0" allowfullscreen></iframe>
 
 
 ## Class: Sept 26 
@@ -116,7 +118,9 @@ Highly motivated students will have the option of participating in an independen
 
 * Instructors: Greenwood, Pentland
 * Guest Speakers: Bob Craig and David Fisher.  Special Guest: Casey Kuhlman
-* Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+* Livestream: [http://youtu.be/8gSFfFB1Jto](http://youtu.be/8gSFfFB1Jto) or [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+* Embed: <iframe width="420" height="315" src="http://www.youtube.com/embed/8gSFfFB1Jto" frameborder="0" allowfullscreen></iframe>
+
 
 ## Class: Oct 3 
 > Topic: Law of New Technologies & Business Models in Global Context 
