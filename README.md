@@ -119,7 +119,8 @@ Highly motivated students will have the option of participating in an independen
 * Instructors: Greenwood, Pentland
 * Guest Speakers: Bob Craig and David Fisher.  Special Guest: Casey Kuhlman
 * Livestream: [http://youtu.be/8gSFfFB1Jto](http://youtu.be/8gSFfFB1Jto) or [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
-* Embed: <iframe width="420" height="315" src="http://www.youtube.com/embed/8gSFfFB1Jto" frameborder="0" allowfullscreen></iframe>
+* Embed: 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/8gSFfFB1Jto" frameborder="0" allowfullscreen></iframe>
 
 
 ## Class: Oct 3 
