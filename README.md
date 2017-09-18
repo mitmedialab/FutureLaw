@@ -2,7 +2,7 @@
 ### 2017 Graduate Seminar at the MIT Media Lab: [FutureLawMIT.org](http://futurelawmit.org)
 > Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
 
-* **Announcement:** If you are registered or auditing, please add your info to thd class "Participant Information & Interest Sheet" here: [https://goo.gl/forms/GmSSh4txWBcNnQPA2](https://goo.gl/forms/GmSSh4txWBcNnQPA2)
+* **Announcement:** If you are registered or auditing, please add your info to the class "Participant Information & Interest Sheet" here: [https://goo.gl/forms/GmSSh4txWBcNnQPA2](https://goo.gl/forms/GmSSh4txWBcNnQPA2)
 
 
 ## MIT Course Info:
