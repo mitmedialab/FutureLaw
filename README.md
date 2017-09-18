@@ -2,6 +2,9 @@
 ### 2017 Graduate Seminar at the MIT Media Lab: [FutureLawMIT.org](http://futurelawmit.org)
 > Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
 
+* **Announcement:** If you are registered or auditing, please add your info to thd class "Participant Information & Interest Sheet" here: [https://goo.gl/forms/GmSSh4txWBcNnQPA2](https://goo.gl/forms/GmSSh4txWBcNnQPA2)
+
+
 ## MIT Course Info:
 * Course Listing: MAS.S71 Fall 2017 (H1)
 * Class Time: Tuesdays 1:00-2:30pm (First Half of Semester from Sept 12 to Oct 17) 
