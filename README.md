@@ -15,15 +15,15 @@
 * Course Content: [http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71](http://stellar.mit.edu/S/course/MAS/fa17/MAS.S71) & [http://futurelawmit.org](http://futurelawmit.org)
 * Course Livestream and Archive Video: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 
-## Instructors:
+### Instructors:
 
 Gabriel Teninbaum, Dazza Greenwood, Joost Bonsen, Alex Pentland 
 
-## Prerequisites: 
+### Prerequisites: 
 
 Students taking the course should have a strong interest in innovation and legal services, and willingness to work in teams with diverse backgrounds. Engineers, entrepreneurs, statisticians, software engineers, and designers need to work alongside practitioners, law students, and others.
 
-## Course Description:
+### Course Description:
 
 Students will explore emerging technologies that are disrupting existing law practices and legal services by building new business models, products or technical concepts. They will understand, experience and build the future of law, lawyers, legal services, and societal rules for technologies and methods. Over a handful of weekly first-half (H1) semester class sessions, students will be exposed to key ideas, principles and frameworks from CEOs of leading startups, corporate leaders, and Media Lab instructors who are leading research in the future of computational law, the legal implications of new technologies, the productization of legal services, and more. Throughout the class, participants will benefit from the Media Lab Entrepreneurship Program’s ability to convene diverse students from across campus and around Boston.
 
