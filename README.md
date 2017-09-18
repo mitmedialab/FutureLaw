@@ -77,7 +77,7 @@ Highly motivated students will have the option of participating in an independen
 
 ### Text & Readings:
 
-* Social Physics: How Social Networks Can Make Us Smarter (Alex Pentland) 
+* [Social Physics: How Social Networks Can Make Us Smarter](https://www.amazon.com/Social-Physics-Networks-Make-Smarter-ebook/dp/B00DMCUYRM/ref=mt_kindle?_encoding=UTF8&me=) (Alex Pentland) 
 
 * Computational Law Open Reading List: [Docs/Readings.md](https://github.com/mitmedialab/FutureLaw/blob/master/Docs/Readings.md)
 
