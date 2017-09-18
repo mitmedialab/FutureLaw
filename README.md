@@ -79,7 +79,7 @@ Highly motivated students will have the option of participating in an independen
 
 * Social Physics: How Social Networks Can Make Us Smarter (Alex Pentland) 
 
-* Computational Law Open Reading List: [Law.MIT.edu/Readings](https://law.MIT.edu/readings)
+* Computational Law Open Reading List: [Docs/Readings.md](https://github.com/mitmedialab/FutureLaw/blob/master/Docs/Readings.md)
 
 * Additional articles and readings will be available for download from the MIT Stellar web site or otherwise online.
 
