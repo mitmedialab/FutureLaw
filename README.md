@@ -3,7 +3,7 @@
 > Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
 
 ## Announcements:
-* If you are registered or auditing, please add your info to the class "Participant Information & Interest Sheet" here: [https://goo.gl/forms/GmSSh4txWBcNnQPA2](https://goo.gl/forms/GmSSh4txWBcNnQPA2) ... and view the responses here: [https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing)
+* If you are registered or auditing, please add your info to the class "Participant Information & Interest Sheet" [here](https://goo.gl/forms/GmSSh4txWBcNnQPA2) ... and view the responses [here](https://docs.google.com/spreadsheets/d/1MiLnB7MFdL2APbmujv7EZN4ZKktEe0C2h34DA-y4J0A/edit?usp=sharing).
 
 
 ## MIT Course Info:
