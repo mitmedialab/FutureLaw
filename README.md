@@ -84,6 +84,19 @@ Highly motivated students will have the option of participating in an independen
 * Additional articles and readings will be available for download from the MIT Stellar web site or otherwise online.
 
 
+### Office Hours: 
+
+Students are expected to meet at least twice as individuals or as proto-teams with one or more of the instructors outside of class.
+
+### Grading: 
+
+Grades will be issued based on the following criteria:
+
+*  Final Group Project: 40% 
+*  Class Participation 25% (in-class, online community, helping peers) 
+*  Advisor Engagement 10% 
+*  Idea Pitch: 15% 
+*  Group Peer Evaluation 10%
 
 --------------------------------------------------------------
 
@@ -173,22 +186,9 @@ Highly motivated students will have the option of participating in an independen
 
 --------------------------------------------------------------
 
+# Misc Info
 
-# Office Hours: 
-
-Students are expected to meet at least twice as individuals or as proto-teams with one or more of the instructors outside of class.
-
-# Grading: 
-
-Grades will be issued based on the following criteria:
-
-*  Final Group Project: 40% 
-*  Class Participation 25% (in-class, online community, helping peers) 
-*  Advisor Engagement 10% 
-*  Idea Pitch: 15% 
-*  Group Peer Evaluation 10%
-
-# Instructor Bios:
+### Instructor Bios:
 
 *  **Alex “Sandy” Pentland** -- Toshiba Professor of Media Arts and Sciences at MIT, is founding Faculty Director of MIT Connection Science, a new research initiative that utilizes communications networks to access and change real-world human behavior. He chairs the World Economic Forum's Data Driven Development Council, is Academic Director of the Data-Pop Alliance, and is a member of the Advisory Boards for Google, Nissan, Telefonica, the United Nations Secretary General, Monument Capital, and the Minerva Schools. In 2012 Forbes​ named Sandy one of the “seven most powerful data scientists in the world”, along with Google founders and the CTO of the United States, and in 2013 he won the McKinsey Award from ​Harvard Business Review.​ He is among the most-cited computational scientists in the world, and a pioneer in computational social science, organizational engineering, wearable computing (Google Glass), image understanding, and modern biometrics. Sandy holds a B.G.S. from University of Michigan and a Ph.D. from the Massachusetts Institute of Technology.
 
@@ -198,12 +198,12 @@ Grades will be issued based on the following criteria:
 
 * **Joost Bonsen** <jpbonsen@alum.mit.edu> -- Lecturer in Media Arts and Sciences, is an innovation ecologist studying inventive action, entrepreneurial hotspots, and creative ties. His graduate thesis from MIT explored “The Innovation Institute: From Creative Inquiry Through Real-World Impact”. Prior to MIT Sloan, Bonsen ran the MIT Founders Project which quantified the economic impact of MIT-related entrepreneurs, findings ultimately published by BankBoston as MIT: Impact of Innovation. Formerly an entrant, mentor, judge, and Lead Organizer of the MIT $100K Entrepreneurship Competition, he was instrumental in the growth of the prize fund to include a Development and Social Impact track. Joost was co-creator and founding Teaching Assistant or instructor of several MIT classes and seminars, including the IAP Nuts & Bolts of New Ventures with Joe Hadzima, Developmental Ventures and Media Ventures with Sandy Pentland, Revolutionary Ventures with Ed Boyden & Joe Jacobson, and most recently Future family of seminars. Joost did his Bachelor's at MIT in Bio-Electrical Engineering and his Master’s at MIT Sloan.
 
-# Class Poster
+### Class Poster
 
 <img alt="poster" src="https://raw.githubusercontent.com/mitmedialab/FutureLaw/master/Media/poster-01.jpg">
 
 
-# Quick Link List:
+### Quick Link List:
 
 * Public Landing Page: [FutureLawMIT.org](http://futurelawmit.org)
 * Future Law Course Description: [DRAFT](https://github.com/mitmedialab/FutureLaw/blob/master/MITFutureLawFall2017H1-DRAFT-Course-Description.pdf)
