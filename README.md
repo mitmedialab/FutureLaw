@@ -136,7 +136,8 @@ Grades will be issued based on the following criteria:
 * Embed: 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Yi7y3uE18KM" frameborder="0" allowfullscreen></iframe>
 
-
+* Part II:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/59fUHmIIrRo" frameborder="0" allowfullscreen></iframe>
 
 --------------------------------------------------------------
 
@@ -147,7 +148,7 @@ Grades will be issued based on the following criteria:
 > Legal and policy dimensions of big data and personal data markets and ecologies; Computational social science (CSS) on socio-legal dynamics, enabling tools for policy design, adaptive rule making, dynamic regulatory impact analysis, property right and law enforcement; online experiments, sentiment analysis techniques or agent-based social simulations in the legal world, and more including the infrastructure behind Identity, Security & Privacy.
 
 * Instructors: Greenwood, Pentland
-* Guest Speakers: Bob Craig and David Fisher.  Special Guest: Casey Kuhlman
+* Guest Speakers: Bob Craig and Casey Kuhlman
 * Livestream: [http://youtu.be/8gSFfFB1Jto](http://youtu.be/8gSFfFB1Jto) or [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 * Embed: 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/8gSFfFB1Jto" frameborder="0" allowfullscreen></iframe>
