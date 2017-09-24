@@ -150,7 +150,7 @@ Grades will be issued based on the following criteria:
 * **Instructors**: [Greenwood](https://www.linkedin.com/in/dazzagreenwood), [Pentland](https://www.linkedin.com/in/alexsandypentland)
 * **In-Person Speaker: [Bob Craig, CIO at Baker Hostetler LLP](https://www.linkedin.com/in/bocraig)** on the [Global Legal Blockchain Consortium](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929)
 * **Remote Speaker: [Casey Kuhlman, CEO at Monax](https://www.linkedin.com/in/compleatang)** on [Dual Integration of Legal Contracts and Smart Contracts](https://monax.io/explainers/dual_integration)
-* **Special Guest: [Vienna Rae Looi, Network catalyst, Economic Space Agency](https://economicspace.agency/team)**, on object oriented law with [gravity](https://economicspace.agency/gravity) and [space](https://economicspace.agency/space)
+* **Special Guest: [Vienna Rae Looi, Network catalyst, Economic Space Agency](https://economicspace.agency/team)**, provides a lightning preview of object oriented law with [gravity](https://economicspace.agency/gravity) and [space](https://economicspace.agency/space)
 * **Join the Discussion** and Tweet Your [Questions](https://twitter.com/intent/tweet?text=%23FutureLawMIT%20Question:%20&source=webclient) or [ideas](https://twitter.com/intent/tweet?text=%23FutureLawMIT%20Idea:%20&source=webclient) Before and During the Livestream!
 * Livestream: [http://youtu.be/8gSFfFB1Jto](http://youtu.be/8gSFfFB1Jto) or [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
 * Embed: 
