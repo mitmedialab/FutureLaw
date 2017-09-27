@@ -163,12 +163,19 @@ Grades will be issued based on the following criteria:
 
 
 ## Class: Oct 3 
-> Topic: Law of New Technologies & Business Models in Global Context 
-> Exploring how new inventions and approaches move faster than updates to the legal system; historical examples including Law of the Sea and Space Law, plus domains such as radio frequency allocation, patentability of life, liability of autonomous vehicles, drones, etc.
+> Topic: New Technologies & Business Models in Context of Global Law 
+> Exploring how new inventions and approaches move faster than updates to the legal system; historical examples including Law of the Sea and Space Law, plus domains such as radio frequency allocation, patentability of life, liability of autonomous vehicles, drones, etc.  
+> **Focus Area: Computational Systems and Social Physics**
+> **Focus Area: Common API's for Reliable Verifications**
 
-* Instructors: Bonsen, TBD
-* Guest Speaker: J. Zittrain 
-* Livestream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+* Facilitator: Dazza Greenwood, MIT Media Lab
+* Presenter: Professor Sandy Pentland, MIT Media Lab
+* Presenter: Dan Harple, CEO Context Labs 
+
+* **Join the Discussion** and Tweet Your [Questions](https://twitter.com/intent/tweet?text=%23FutureLawMIT%20Question:%20&source=webclient) or [ideas](https://twitter.com/intent/tweet?text=%23FutureLawMIT%20Idea:%20&source=webclient) Before and During the Livestream!
+
+* Livestream: [http://youtu.be/agl1NH02n3c](http://youtu.be/agl1NH02n3c)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/agl1NH02n3c" frameborder="0" allowfullscreen></iframe>
 
 
 --------------------------------------------------------------
