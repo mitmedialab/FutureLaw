@@ -168,9 +168,16 @@ Grades will be issued based on the following criteria:
 > **Focus Area: Computational Systems and Social Physics**
 > **Focus Area: Common API's for Reliable Verifications**
 
-* Facilitator: Dazza Greenwood, MIT Media Lab
-* Presenter: Professor Sandy Pentland, MIT Media Lab
-* Presenter: Dan Harple, CEO Context Labs 
+* Facilitators: Dazza Greenwood and Professor Sandy Pentland, MIT Media Lab on refactoring law for a digital future
+* Presenter: [Dan Harple](https://github.com/mitmedialab/FutureLaw/blob/master/Media/Dan-Photo.png), CEO [Context Labs](https://github.com/mitmedialab/FutureLaw/blob/master/Media/CXL-Overview-Harple-Bio.pdf) on a general verification protocol to establish and prove information
+* [Adam Zieglar, Harvard Law School](https://www.linkedin.com/in/abziegler) will provide an update on the [Caselaw Access Project](http://lil.law.harvard.edu/projects/caselaw-access-project).  Here is a [Library Journal article on project as a whole]( http://lj.libraryjournal.com/2015/12/oa/harvard-launches-free-the-law-digitization-project/#) and a [recent post by Adam on the state of access to caselaw and path forward for law that is "born digital"](https://blog.law.cornell.edu/voxpop/2017/07/31/25-for-25-envisioning-free-access-to-caselaw/)
+
+
+We will also have 3 minute lightning talks from:
+* [Andy Sellars of BU Law School](https://www.bu.edu/law/profile/andrew-sellars) on the [Technology & Cyberlaw Clinic](https://innovation.mit.edu/resource/bu-law-clinic) created in a recent collaboration between [MIT and Boston University School of Law](https://law.mit.edu/legal-help-mit-students) to [help MIT and BU Law students interested in entrepreneurship and innovation navigate legal issues](https://www.bu.edu/law/2015/11/23/bu-law-clinics-at-mit-to-help-students-start-businesses-and-innovate) facing their start-up ventures and technology projects
+* [Zachary Larson of the Economic Space Agency](https://economicspace.agency/team) with a update to complete the introduction last class by Vienna Looi to the [Gravity project](https://economicspace.agency/gravity) and how MIT and legal communities can engage with the project at the upcoming [MIT Legal Forum on October 30 + 31, 2017 at the MIT Media Lab](http://mitlegalforum.org).
+
+
 
 * **Join the Discussion** and Tweet Your [Questions](https://twitter.com/intent/tweet?text=%23FutureLawMIT%20Question:%20&source=webclient) or [ideas](https://twitter.com/intent/tweet?text=%23FutureLawMIT%20Idea:%20&source=webclient) Before and During the Livestream!
 
