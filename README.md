@@ -168,9 +168,9 @@ Grades will be issued based on the following criteria:
 > **Focus Area: Computational Systems and Social Physics**
 > **Focus Area: Common API's for Reliable Verifications**
 
-* Facilitators: Dazza Greenwood and Professor Sandy Pentland, MIT Media Lab on refactoring law for a digital future
-* Presenter: [Dan Harple](https://github.com/mitmedialab/FutureLaw/blob/master/Media/Dan-Photo.png), CEO [Context Labs](https://github.com/mitmedialab/FutureLaw/blob/master/Media/CXL-Overview-Harple-Bio.pdf) on a general verification protocol to establish and prove information
-* [Adam Zieglar, Harvard Law School](https://www.linkedin.com/in/abziegler) will provide an update on the [Caselaw Access Project](http://lil.law.harvard.edu/projects/caselaw-access-project).  Here is a [Library Journal article on project as a whole]( http://lj.libraryjournal.com/2015/12/oa/harvard-launches-free-the-law-digitization-project/#) and a [recent post by Adam on the state of access to caselaw and path forward for law that is "born digital"](https://blog.law.cornell.edu/voxpop/2017/07/31/25-for-25-envisioning-free-access-to-caselaw/)
+* **Facilitators: Dazza Greenwood and Professor Sandy Pentland, MIT Media Lab** on big picture context of refactoring law and legal processes to become computational systems ready for the digital economy and information society.
+* **Presenter: [Dan Harple](https://github.com/mitmedialab/FutureLaw/blob/master/Media/Dan-Photo.png), CEO [Context Labs](https://github.com/mitmedialab/FutureLaw/blob/master/Media/CXL-Overview-Harple-Bio.pdf)** on a general verification protocol to establish and prove information
+* **Presenter: [Adam Zieglar, Harvard Law School](https://www.linkedin.com/in/abziegler)** will provide an update on the [Caselaw Access Project](http://lil.law.harvard.edu/projects/caselaw-access-project).  Here is a [Library Journal article on project as a whole]( http://lj.libraryjournal.com/2015/12/oa/harvard-launches-free-the-law-digitization-project/#) and a [recent post by Adam on the state of access to caselaw and path forward for law that is "born digital"](https://blog.law.cornell.edu/voxpop/2017/07/31/25-for-25-envisioning-free-access-to-caselaw/)
 
 
 We will also have 3 minute lightning talks from:
