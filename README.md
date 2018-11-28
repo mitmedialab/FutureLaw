@@ -145,7 +145,7 @@ Grades will be issued based on the following criteria:
 
 ## Class: Sept 26 
 > Topic - Blockchain, Code, Computational Law & Legal Analytics
-> Legal and policy dimensions of big data and personal data markets and ecologies; Computational social science (CSS) on socio-legal dynamics, enabling tools for policy design, adaptive rule making, dynamic regulatory impact analysis, property right and law enforcement; online experiments, sentiment analysis techniques or agent-based social simulations in the legal world, and more including the infrastructure behind Identity, Security & Privacy.
+> Legal and policy dimensions of big data and personal data markets and ecologies; Computational social science (CSS) on socio-legal dynamics, enabling tools for policy design, adaptive rule making, dynamic regulatory impact analysis, property right and law enforcement practice; online experiments, sentiment analysis techniques or agent-based social simulations in the legal world, and more including the infrastructure behind Identity, Security & Privacy.
 
 * **Instructors**: [Greenwood](https://www.linkedin.com/in/dazzagreenwood), [Pentland](https://www.linkedin.com/in/alexsandypentland)
 * **In-Person Speaker: [Bob Craig, CIO at Baker Hostetler LLP](https://www.linkedin.com/in/bocraig)** on the [Global Legal Blockchain Consortium](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929)
