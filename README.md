@@ -1,5 +1,5 @@
 # Future Law
-### 2017 Graduate Seminar at the MIT Media Lab: [FutureLawMIT.org](http://futurelawmit.org)
+### Graduate Seminar at the MIT Media Lab: [FutureLawMIT.org](http://futurelawmit.org)
 > Reimagining Rules & Legal Services in light of Novel Technologies & Enabled Code
 
 ## Announcements:
